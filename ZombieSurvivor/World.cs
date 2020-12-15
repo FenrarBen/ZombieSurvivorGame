@@ -154,24 +154,24 @@ namespace ZombieSurvivor
             string exits = "Obvious Exits: ";
             if (Board[x,y].ExitNorth == true)
             {
-                exits += "North ";
+                exits += "North, ";
             }
 
             if (Board[x, y].ExitSouth == true)
             {
-                exits += "South ";
+                exits += "South, ";
             }
 
             if (Board[x, y].ExitEast == true)
             {
-                exits += "East ";
+                exits += "East, ";
             }
 
             if (Board[x, y].ExitWest == true)
             {
-                exits += "West ";
+                exits += "West, ";
             }
-            exits = exits.Remove(exits.Length - 1, 1);
+            exits = exits.Remove(exits.Length - 2, 2);
             Console.WriteLine(exits);
         }
     }
