@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RoomCollection>
+  <ROOMS>
+    <ROOM>
+      <X>0</X>
+      <Y>0</Y>
+      <NAME>Inside of a Jail Cell</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>0</X>
+      <Y>1</Y>
+      <NAME>A Police Parking Lot</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>0</X>
+      <Y>2</Y>
+      <NAME>An Alley Beside The Police Station</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>0</X>
+      <Y>3</Y>
+      <NAME>A Very Messy Bedroom</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>0</X>
+      <Y>4</Y>
+      <NAME>A Private Backyard</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>1</X>
+      <Y>0</Y>
+      <NAME>The Police Station Armory</NAME>
+      <DESCRIPTION>Room 1,0</DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>1</X>
+      <Y>1</Y>
+      <NAME>Inside the Police Station</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>1</X>
+      <Y>2</Y>
+      <NAME>An Alley Beside the Police Station</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>1</X>
+      <Y>3</Y>
+      <NAME>A Big Family Room</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>1</X>
+      <Y>4</Y>
+      <NAME>A Private Backyard</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>2</X>
+      <Y>0</Y>
+      <NAME>A Public Park</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>2</X>
+      <Y>1</Y>
+      <NAME>A Stop Light</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>2</X>
+      <Y>2</Y>
+      <NAME>A Road Running North and South</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>2</X>
+      <Y>3</Y>
+      <NAME>A Road Running North and South</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>2</X>
+      <Y>4</Y>
+      <NAME>A Tunnel in the Road</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>3</X>
+      <Y>0</Y>
+      <NAME>A Copse of Trees</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>3</X>
+      <Y>1</Y>
+      <NAME>A Meat Freezer</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>3</X>
+      <Y>2</Y>
+      <NAME>Inside A Grocery Store</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>3</X>
+      <Y>3</Y>
+      <NAME>A Grocery Store Parking Lot</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>3</X>
+      <Y>4</Y>
+      <NAME>A City Clerk's Office</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>4</X>
+      <Y>0</Y>
+      <NAME>A Beach</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>4</X>
+      <Y>1</Y>
+      <NAME>Outside of a Burnt House</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>4</X>
+      <Y>2</Y>
+      <NAME>An Abandoned Triage Center</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>4</X>
+      <Y>3</Y>
+      <NAME>City Hall Entrance</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>4</X>
+      <Y>4</Y>
+      <NAME>A Hallway Corner</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>5</X>
+      <Y>0</Y>
+      <NAME>On the Waterfront</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>5</X>
+      <Y>1</Y>
+      <NAME>North End of Main Street</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>5</X>
+      <Y>2</Y>
+      <NAME>City Center</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>5</X>
+      <Y>3</Y>
+      <NAME>Amongst Tall Buildings</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>5</X>
+      <Y>4</Y>
+      <NAME>South End of Main Street</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>6</X>
+      <Y>0</Y>
+      <NAME>Along the Docks</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>6</X>
+      <Y>1</Y>
+      <NAME>A Ruined Cafe</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>6</X>
+      <Y>2</Y>
+      <NAME>The Hospital Morgue</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>6</X>
+      <Y>3</Y>
+      <NAME>The Hopsital Entrance</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>6</X>
+      <Y>4</Y>
+      <NAME>Beside the Hospital</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>true</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>7</X>
+      <Y>0</Y>
+      <NAME>Along the Docks</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>7</X>
+      <Y>1</Y>
+      <NAME>At the Gates of the Cemetary</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>7</X>
+      <Y>2</Y>
+      <NAME>An Operating Room</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>true</EXITSOUTH>
+      <EXITWEST>false</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>7</X>
+      <Y>3</Y>
+      <NAME>A Nursing Station</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>true</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+
+    <ROOM>
+      <X>7</X>
+      <Y>4</Y>
+      <NAME>A Helipad</NAME>
+      <DESCRIPTION></DESCRIPTION>
+      <EXITNORTH>false</EXITNORTH>
+      <EXITEAST>false</EXITEAST>
+      <EXITSOUTH>false</EXITSOUTH>
+      <EXITWEST>true</EXITWEST>
+    </ROOM>
+  </ROOMS>
+</RoomCollection>

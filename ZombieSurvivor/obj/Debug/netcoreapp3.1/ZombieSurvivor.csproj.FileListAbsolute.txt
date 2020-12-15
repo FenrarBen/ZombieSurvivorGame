@@ -1,0 +1,14 @@
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.exe
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.deps.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.runtimeconfig.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.runtimeconfig.dev.json
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.dll
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.pdb
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.csprojAssemblyReference.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.AssemblyInfoInputs.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.AssemblyInfo.cs
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.csproj.CoreCompileInputs.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.dll
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.pdb
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\obj\Debug\netcoreapp3.1\ZombieSurvivor.genruntimeconfig.cache
+C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\zombies.xml
