@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace ZombieSurvivor
 {
@@ -14,6 +15,7 @@ namespace ZombieSurvivor
         public int CurrentY { get; set; }
         private Room CurrentRoom { get; set; }
         public bool Victory = false;
+        public static System.Timers.Timer timer;
 
         public Player(World world)
         {
@@ -24,7 +26,6 @@ namespace ZombieSurvivor
             CurrentX = 0;
             CurrentY = 0;
             CurrentRoom = world.Board[0, 0];
-
         }
 
         public void MoveNorth(World world)
@@ -32,10 +33,13 @@ namespace ZombieSurvivor
             Console.ForegroundColor = ConsoleColor.White;
             if (CurrentRoom.ExitNorth == true && CurrentRoom.HasZombie == false)
             {
+
                 Console.WriteLine("You go North into... ");
-                Console.WriteLine();
+                Thread.Sleep(1500);
+                Console.Clear();
                 CurrentY--;
 
+                ShowStatus();
                 world.GetRoom(CurrentX, CurrentY);
                 CurrentRoom = world.Board[CurrentX, CurrentY];
             }
@@ -55,9 +59,11 @@ namespace ZombieSurvivor
             if (CurrentRoom.ExitSouth == true && CurrentRoom.HasZombie == false)
             {
                 Console.WriteLine("You go South into... ");
-                Console.WriteLine();
+                Thread.Sleep(1500);
+                Console.Clear();
                 CurrentY++;
 
+                ShowStatus();
                 world.GetRoom(CurrentX, CurrentY);
                 CurrentRoom = world.Board[CurrentX, CurrentY];
             }
@@ -77,9 +83,11 @@ namespace ZombieSurvivor
             if (CurrentRoom.ExitEast == true && CurrentRoom.HasZombie == false)
             {
                 Console.WriteLine("You go East into... ");
-                Console.WriteLine();
+                Thread.Sleep(1500);
+                Console.Clear();
                 CurrentX++;
 
+                ShowStatus();
                 world.GetRoom(CurrentX, CurrentY);
                 CurrentRoom = world.Board[CurrentX, CurrentY];
             }
@@ -99,9 +107,11 @@ namespace ZombieSurvivor
             if (CurrentRoom.ExitWest == true && CurrentRoom.HasZombie == false)
             {
                 Console.WriteLine("You go West into... ");
-                Console.WriteLine();
+                Thread.Sleep(1500);
+                Console.Clear();
                 CurrentX--;
 
+                ShowStatus();
                 world.GetRoom(CurrentX, CurrentY);
                 CurrentRoom = world.Board[CurrentX, CurrentY];
             }
@@ -260,16 +270,15 @@ namespace ZombieSurvivor
 
         public void ShowStatus()
         {
-            Console.WriteLine();
             string gun;
             if (HasGun == true)
             {
-                gun = "Yes";
+                gun = "Pistol";
             }
 
             else
             {
-                gun = "No";
+                gun = "None";
             }
 
             Console.ForegroundColor = ConsoleColor.Red;

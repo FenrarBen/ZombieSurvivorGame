@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZombieSurvivor</id>
+    <version>1.0.0</version>
+    <authors>ZombieSurvivor</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.runtimeconfig.json" target="lib\netcoreapp3.1\ZombieSurvivor.runtimeconfig.json" />
+    <file src="C:\Users\Fenrar Muad'dib\Desktop\repos\ZombieSurvivor\ZombieSurvivor\bin\Debug\netcoreapp3.1\ZombieSurvivor.dll" target="lib\netcoreapp3.1\ZombieSurvivor.dll" />
+  </files>
+</package>
